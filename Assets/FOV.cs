@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 public class FOV : MonoBehaviour
 {
     public int raycount = 2;
-    float fov = 20;
+    float fov = 10;
     float angle = 0f;
     Vector3 origin = Vector3.zero;
     public float viewDistance = 1f;
@@ -30,7 +30,7 @@ public class FOV : MonoBehaviour
         if (showingFOV)
         {
             // Mostrar FOV durante 3 segundos
-            fov = 20;
+            fov = 10;
             GenerateMesh();
 
             if (timer >= watching)

@@ -813,7 +813,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   raycount: 0
-  viewDistance: 2
+  viewDistance: 0
 --- !u!23 &215582774
 MeshRenderer:
   m_ObjectHideFlags: 0
