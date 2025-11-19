@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|c:\\users\\yosss\\downloads\\peb-juego2-main\\peb_3\\assets\\fov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|solutionrelative:assets\\fov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|c:\\users\\yosss\\downloads\\peb-juego2-main\\peb_3\\assets\\scripts\\gameovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|c:\\users\\yosss\\downloads\\peb-juego2-main\\peb_3\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|c:\\users\\yosss\\downloads\\peb-juego2-main\\peb_3\\assets\\nivelselec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|solutionrelative:assets\\nivelselec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\assets\\scripts\\lazulimovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lazulimovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\assets\\scripts\\gameovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\assets\\fov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77629B3B-4598-DE90-37EE-21405357AD2E}|Assembly-CSharp.csproj|solutionrelative:assets\\fov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,29 +54,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nivelselec.cs",
+              "DocumentMoniker": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\nivelselec.cs",
+              "RelativeDocumentMoniker": "Assets\\nivelselec.cs",
+              "ToolTip": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\nivelselec.cs",
+              "RelativeToolTip": "Assets\\nivelselec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:48:15.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Gamemanager.cs",
+              "DocumentMoniker": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\Gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Gamemanager.cs",
+              "ToolTip": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\Gamemanager.cs",
+              "RelativeToolTip": "Assets\\Gamemanager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:46:45.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LazuliMovement.cs",
+              "DocumentMoniker": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\Scripts\\LazuliMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LazuliMovement.cs",
+              "ToolTip": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\Scripts\\LazuliMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LazuliMovement.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:46:31.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Checkpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:45:35.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GameOverController.cs",
               "DocumentMoniker": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\Scripts\\GameOverController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverController.cs",
               "ToolTip": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\Scripts\\GameOverController.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameOverController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T23:09:24.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T23:09:24.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FOV.cs",
               "DocumentMoniker": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\FOV.cs",
               "RelativeDocumentMoniker": "Assets\\FOV.cs",
               "ToolTip": "C:\\Users\\yosss\\Downloads\\PEB-juego2-main\\PEB_3\\Assets\\FOV.cs",
               "RelativeToolTip": "Assets\\FOV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwCAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T23:05:35.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T23:05:35.149Z"
             }
           ]
         }
