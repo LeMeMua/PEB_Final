@@ -10,6 +10,7 @@ public class Gamemanager : MonoBehaviour
     public HUD hud;
     public GameObject[] vidas;
     private int vidasRestantes = 0;
+    public int nivel;
 
     private void Awake()
     {
